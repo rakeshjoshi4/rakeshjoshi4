@@ -14,7 +14,7 @@ As a recent Mechanical Engineering graduate, I’ve transitioned my problem-solv
 - **Global Economic Indicators Dashboard:** Interactive Power BI dashboard analyzing global trends.
 - **NYC Airbnb EDA:** Exploratory data analysis of Airbnb listings for pricing and review insights.
 - **SQL Sales EDA or Analysis:** In-depth sales data exploration and visualization using SQL, uncovering sales trends, customer behavior, and business insights.
-- **Chainlit Foodie Bot:** AI-powered chatbot for restaurant recommendations.
+- **Chainlit Foodie Bot:** AI chatbot for menu exploration, food ordering, and dish discovery via natural conversation.
 
 Explore all my projects in the [Repositories](https://github.com/rakeshjoshi4?tab=repositories) tab.
 
