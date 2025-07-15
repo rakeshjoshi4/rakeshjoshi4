@@ -21,6 +21,8 @@ Explore all my projects in the [Repositories](https://github.com/rakeshjoshi4?ta
 ## 🎓 Certifications
 Certified by leading organizations including **AWS Educate, IBM, and Microsoft** in data science, machine learning, and cloud fundamentals.
 
+For a complete list of my certifications, please see the [Licenses & Certifications section on my LinkedIn profile](https://www.linkedin.com/in/rakeshgjoshi/details/certifications/).
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rakeshgjoshi/)
 - Email: rakeshgjoshi4@gmail.com
