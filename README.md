@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an aspiring data analyst with a background in **Mechanical Engineering**, bringing analytical rigor and a hands-on approach to the world of data. Driven by curiosity, I am passionate about transforming raw data into actionable insights that solve real-world problems and power meaningful decisions.
 
-🚀 About Me  
+## 🚀 About Me  
 As a recent Mechanical Engineering graduate, I’ve transitioned my problem-solving mindset into the field of data analysis. I believe that well-analyzed data drives business success and innovation. I'm eager to contribute impactful solutions through continuous learning and hands-on projects.
 
 ## 🛠️ Skills & Tools
