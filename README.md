@@ -1,6 +1,9 @@
 # Hi, I'm Rakesh Joshi 👋
 
-I'm a recent Mechanical Engineering graduate pivoting into the field of **Data Analytics**. I am passionate about using data to drive insights and support decision-making. My projects emphasize clear analysis, effective visualization, and practical solutions to real-world problems.
+Welcome to my GitHub profile! I'm an aspiring data analyst with a background in **Mechanical Engineering**, bringing analytical rigor and a hands-on approach to the world of data. Driven by curiosity, I am passionate about transforming raw data into actionable insights that solve real-world problems and power meaningful decisions.
+
+🚀 About Me  
+As a recent Mechanical Engineering graduate, I’ve transitioned my problem-solving mindset into the field of data analysis. I believe that well-analyzed data drives business success and innovation. I'm eager to contribute impactful solutions through continuous learning and hands-on projects.
 
 ## 🛠️ Skills & Tools
 - **Languages & Libraries:** Python (NumPy, Pandas, Matplotlib, Seaborn)
@@ -10,7 +13,7 @@ I'm a recent Mechanical Engineering graduate pivoting into the field of **Data A
 ## 📂 Featured Projects
 - **Global Economic Indicators Dashboard:** Interactive Power BI dashboard analyzing global trends.
 - **NYC Airbnb EDA:** Exploratory data analysis of Airbnb listings for pricing and review insights.
-- **Climate & Soil Erosion Analysis:** Research-driven project on climate change impacts.
+- **SQL Sales EDA or Analysis:** In-depth sales data exploration and visualization using SQL, uncovering sales trends, customer behavior, and business insights.
 - **Chainlit Foodie Bot:** AI-powered chatbot for restaurant recommendations.
 
 Explore all my projects in the [Repositories](https://github.com/rakeshjoshi4?tab=repositories) tab.
